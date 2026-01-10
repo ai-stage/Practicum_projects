@@ -27,5 +27,5 @@ Python, pandas, numpy, matplotlib, seaborn, scipy
 
 ## Материалы
 
-- Отчёт: `report.pdf`
-- Ноутбук с кодом: `notebooks/analysis.ipynb`
+- Отчёт (PDF): [report.pdf](https://www.notion.so/report.pdf)
+- Ноутбук с кодом: [analysis.ipynb](https://www.notion.so/notebooks/analysis.ipynb)
