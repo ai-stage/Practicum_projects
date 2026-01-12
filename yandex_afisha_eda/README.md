@@ -1,5 +1,3 @@
-# Untitled
-
 # Анализ данных Яндекс Афиши (лето–осень 2024)
 
 ## Цель
@@ -27,5 +25,5 @@ Python, pandas, numpy, matplotlib, seaborn, scipy
 
 ## Материалы
 
-* Отчёт (PDF): \[report.pdf](./report.pdf)
-* Ноутбук с кодом: \[analysis.ipynb](./notebooks/analysis.ipynb)
+* Отчёт (PDF): yandex_afisha_eda/report.pdf
+* Ноутбук с кодом: yandex_afisha_eda/notebooks/analysis.ipynb
