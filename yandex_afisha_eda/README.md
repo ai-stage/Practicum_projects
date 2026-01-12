@@ -25,5 +25,5 @@ Python, pandas, numpy, matplotlib, seaborn, scipy
 
 ## Материалы
 
-* Отчёт (PDF): yandex_afisha_eda/report.pdf
+* Отчёт (PDF): /yandex_afisha_eda/report.pdf
 * Ноутбук с кодом: yandex_afisha_eda/notebooks/analysis.ipynb
