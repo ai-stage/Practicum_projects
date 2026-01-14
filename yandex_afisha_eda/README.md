@@ -27,7 +27,7 @@ Python, pandas, numpy, matplotlib, seaborn, scipy
 
 
 
-\- 📄 Отчёт (PDF): \[report.pdf](./report.pdf)
+\- 📄 Отчёт (PDF): https://github.com/ai-stage/Practicum_projects/blob/main/yandex_afisha_eda/report.pdf
 
-\- 📓 Ноутбук с кодом: \[analysis.ipynb](./notebooks/analysis.ipynb)
+\- 📓 Ноутбук с кодом: https://github.com/ai-stage/Practicum_projects/blob/main/yandex_afisha_eda/notebooks/analysis.ipynb
 
